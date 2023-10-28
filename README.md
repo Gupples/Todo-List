@@ -26,7 +26,7 @@
 
 {Make a list of websites that you found helpful in this project}
 
-- [Web Site Name](http://url.link.goes.here)
+- [Getting Started with Cloud Firestore](https://firebase.google.com/docs/firestore/quickstart))
 - [Web Site Name](http://url.link.goes.here)
 
 # Future Work
